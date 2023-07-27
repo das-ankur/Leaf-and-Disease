@@ -38,7 +38,7 @@ further training. Overall the model is giving good predictions.
     </div>
 </div>
 <div>
-    <h3>Results</h3>
+    <h3>Results: <strong>Metrics: </strong>Please check results/result.csv</h3>
     <div>
         <strong><center>Test Images</center></strong>
         <img src="results/test1.png">
@@ -46,9 +46,6 @@ further training. Overall the model is giving good predictions.
         <img src="results/test3.png">
         <img src="results/test4.png">
         <img src="results/test5.png">
-    </div>
-    <div>
-        <center><strong>Metrics: </strong>Please check results/result.csv</center>
     </div>
     <div>
     </div>
