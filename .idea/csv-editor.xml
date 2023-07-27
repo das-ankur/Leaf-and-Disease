@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/official/projects/waste_identification_ml/pre_processing/config/data/material_form_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/official/projects/waste_identification_ml/pre_processing/config/data/material_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/official/projects/waste_identification_ml/pre_processing/config/data/one_model_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/official/projects/waste_identification_ml/pre_processing/config/data/plastic_type_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/official/projects/waste_identification_ml/pre_processing/config/data/two_model_strategy_material.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/official/projects/waste_identification_ml/pre_processing/config/data/two_model_strategy_material_form.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TFOD-20230726T144606Z-001/TFOD/models/research/audioset/yamnet/yamnet_class_map.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
