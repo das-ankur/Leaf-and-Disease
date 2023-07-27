@@ -38,7 +38,7 @@ further training. Overall the model is giving good predictions.
     </div>
 </div>
 <div>
-    <h3>Results: <strong>Metrics: </strong>Please check results/result.csv</h3>
+    <h3>Evaluation Metrics: Please check <strong>results/result.csv</strong></h3>
     <div>
         <strong><center>Test Images</center></strong>
         <img src="results/test1.png">
