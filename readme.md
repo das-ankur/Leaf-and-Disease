@@ -33,7 +33,23 @@ performance. I also convert it to tflite format for edge deployment.
     <h3>Conclusion</h3>
     <div>
         For hardware limitations, it's only trained with few number of
-training steps. Approximately 10K. The loss can be optimized more with
+training steps. Approximately 5K. The loss can be optimized more with
 further training. Overall the model is giving good predictions.
+    </div>
+</div>
+<div>
+    <h3>Results</h3>
+    <div>
+        <strong><center>Test Images</center></strong>
+        <img src="results/test1.png">
+        <img src="results/test2.png">
+        <img src="results/test3.png">
+        <img src="results/test4.png">
+        <img src="results/test5.png">
+    </div>
+    <div>
+        <center><strong>Metrics: </strong>Please check results/result.csv</center>
+    </div>
+    <div>
     </div>
 </div>
